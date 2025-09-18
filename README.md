@@ -44,7 +44,10 @@ This framework provides:
 ## 📂 Project Structure
 ```
 quantum_ai_auditing_with_visuals.ipynb   # Main notebook
-README.md                               # Project documentation
+README.md                                # Project documentation
+recruitment_data.csv                     # Dataset
+requirements.txt                         # Dependencies
+circuit_diagram.png
 ```
 
 ---
